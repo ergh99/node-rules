@@ -1,0 +1,6 @@
+# IntelliJ
+.idea/
+
+# Node / npm
+node_modules/
+npm-debug.log
